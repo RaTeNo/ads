@@ -1,0 +1,13 @@
+/*
+Theme Name:     UnderStrap Child
+Theme URI:      http: //example.com/
+Description:    Дочерняя тема для темы UnderStrap
+Author:         RaTeN
+Author URI:     https://www.fl.ru/users/raten/
+Template:       understrap
+Version:        0.1.0
+*/
+
+.container-margin .row{
+	margin-top:20px;
+}
